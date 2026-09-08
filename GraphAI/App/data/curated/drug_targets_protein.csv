@@ -1,0 +1,6 @@
+drug_id,protein_id,action,evidence_score,evidence_type,source
+DRUG:METFORMIN,PROTEIN:AMPK_ALPHA,activates,0.85,curated_association,Workshop_Curated
+DRUG:IMATINIB,PROTEIN:ABL1,inhibits,0.98,curated_association,Workshop_Curated
+DRUG:ASPIRIN,PROTEIN:COX2,inhibits,0.90,curated_association,Workshop_Curated
+DRUG:ATORVASTATIN,PROTEIN:HMGCR,inhibits,0.97,curated_association,Workshop_Curated
+DRUG:EXPERIMENTAL_01,PROTEIN:INSULIN_RECEPTOR,modulates,0.60,experimental_association,Workshop_Curated

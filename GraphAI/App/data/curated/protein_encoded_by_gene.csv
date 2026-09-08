@@ -1,0 +1,7 @@
+protein_id,gene_id,source
+PROTEIN:AMPK_ALPHA,GENE:AMPK,Workshop_Curated
+PROTEIN:INSULIN_RECEPTOR,GENE:INSR,Workshop_Curated
+PROTEIN:ABL1,GENE:ABL1,Workshop_Curated
+PROTEIN:BRCA1,GENE:BRCA1,Workshop_Curated
+PROTEIN:HMGCR,GENE:HMGCR,Workshop_Curated
+PROTEIN:COX2,GENE:PTGS2,Workshop_Curated

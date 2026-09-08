@@ -1,0 +1,7 @@
+protein_id,protein_name,uniprot_id,source
+PROTEIN:AMPK_ALPHA,AMP-activated protein kinase alpha subunit,P54646,Workshop_Curated
+PROTEIN:INSULIN_RECEPTOR,Insulin receptor,P06213,Workshop_Curated
+PROTEIN:ABL1,Tyrosine-protein kinase ABL1,P00519,Workshop_Curated
+PROTEIN:BRCA1,BRCA1 protein,P38398,Workshop_Curated
+PROTEIN:HMGCR,HMG-CoA reductase,P04035,Workshop_Curated
+PROTEIN:COX2,Cyclooxygenase-2,P35354,Workshop_Curated

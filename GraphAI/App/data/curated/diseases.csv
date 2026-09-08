@@ -1,0 +1,6 @@
+disease_id,disease_name,therapeutic_area,source
+DIS:TYPE2_DIABETES,Type 2 Diabetes Mellitus,Metabolic,Workshop_Curated
+DIS:CHRONIC_MYELOID_LEUKEMIA,Chronic Myeloid Leukemia,Oncology,Workshop_Curated
+DIS:BREAST_CANCER,Breast Cancer,Oncology,Workshop_Curated
+DIS:ATHEROSCLEROSIS,Atherosclerosis,Cardiovascular,Workshop_Curated
+DIS:INFLAMMATION,Inflammatory Disease,Immunology,Workshop_Curated

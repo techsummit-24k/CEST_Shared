@@ -1,0 +1,5 @@
+drug_id,disease_id,approval_status,evidence_score,evidence_type,source
+DRUG:METFORMIN,DIS:TYPE2_DIABETES,Approved,0.98,approved_indication,Workshop_Curated
+DRUG:IMATINIB,DIS:CHRONIC_MYELOID_LEUKEMIA,Approved,0.99,approved_indication,Workshop_Curated
+DRUG:ATORVASTATIN,DIS:ATHEROSCLEROSIS,Approved,0.92,approved_indication,Workshop_Curated
+DRUG:ASPIRIN,DIS:INFLAMMATION,Approved,0.85,approved_indication,Workshop_Curated

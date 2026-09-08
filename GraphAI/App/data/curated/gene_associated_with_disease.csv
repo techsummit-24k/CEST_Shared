@@ -1,0 +1,7 @@
+gene_id,disease_id,evidence_score,evidence_type,source
+GENE:AMPK,DIS:TYPE2_DIABETES,0.83,genetic_association,Workshop_Curated
+GENE:INSR,DIS:TYPE2_DIABETES,0.95,genetic_association,Workshop_Curated
+GENE:ABL1,DIS:CHRONIC_MYELOID_LEUKEMIA,0.99,genetic_association,Workshop_Curated
+GENE:BRCA1,DIS:BREAST_CANCER,0.97,genetic_association,Workshop_Curated
+GENE:HMGCR,DIS:ATHEROSCLEROSIS,0.81,pathway_association,Workshop_Curated
+GENE:PTGS2,DIS:INFLAMMATION,0.88,biomarker_association,Workshop_Curated

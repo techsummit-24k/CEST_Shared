@@ -1,0 +1,5 @@
+pathway_id,pathway_name,source
+PATHWAY:INSULIN_SIGNALING,Insulin signaling pathway,Workshop_Curated
+PATHWAY:DNA_REPAIR,DNA damage repair pathway,Workshop_Curated
+PATHWAY:CHOLESTEROL,Cholesterol biosynthesis pathway,Workshop_Curated
+PATHWAY:INFLAMMATION,Inflammatory signaling pathway,Workshop_Curated

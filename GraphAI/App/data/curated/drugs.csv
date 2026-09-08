@@ -1,0 +1,6 @@
+drug_id,drug_name,approval_status,drug_class,source
+DRUG:METFORMIN,Metformin,Approved,Biguanide,Workshop_Curated
+DRUG:IMATINIB,Imatinib,Approved,Tyrosine kinase inhibitor,Workshop_Curated
+DRUG:ASPIRIN,Aspirin,Approved,NSAID,Workshop_Curated
+DRUG:ATORVASTATIN,Atorvastatin,Approved,Statin,Workshop_Curated
+DRUG:EXPERIMENTAL_01,Example Compound 01,Experimental,Small molecule,Workshop_Curated

@@ -1,0 +1,7 @@
+gene_id,gene_symbol,gene_name,source
+GENE:AMPK,PRKAA1,Protein kinase AMP-activated catalytic subunit alpha 1,Workshop_Curated
+GENE:INSR,INSR,Insulin receptor,Workshop_Curated
+GENE:ABL1,ABL1,ABL proto-oncogene 1,Workshop_Curated
+GENE:BRCA1,BRCA1,BRCA1 DNA repair associated,Workshop_Curated
+GENE:HMGCR,HMGCR,3-hydroxy-3-methylglutaryl-CoA reductase,Workshop_Curated
+GENE:PTGS2,PTGS2,Prostaglandin-endoperoxide synthase 2,Workshop_Curated
